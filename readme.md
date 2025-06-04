@@ -10,9 +10,6 @@ A custom login page for MikroTik hotspot systems, designed to replace the defaul
 - ✅ Supports custom branding (logo, colors, etc.)
 - ✅ Optional sections for terms of service, announcements, or promotions
 
-## Preview
-
-![Login Page Preview](preview.png) <!-- Replace with your actual preview image -->
 
 ## Installation
 
